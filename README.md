@@ -19,7 +19,7 @@
 ### Tools & IDEs
 
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio Community](https://img.shields.io/badge/Visual_Studio_Community-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
 
